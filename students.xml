@@ -1,0 +1,17 @@
+<students>
+<student>
+<name>Rahim</name>
+<age>20</age>
+<department>CSE</department>
+</student>
+<student>
+<name>Karim</name>
+<age>21</age>
+<department>EEE</department>
+</student>
+<student>
+<name>Jannat</name>
+<age>19</age>
+<department>BBA</department>
+</student>
+</students>
